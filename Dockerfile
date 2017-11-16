@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:6
+FROM node:alpine
 
 RUN apk add --no-cache git
 
